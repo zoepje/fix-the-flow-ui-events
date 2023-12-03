@@ -111,7 +111,7 @@ Deze opdracht is done als:
 - [ ] Je hebt minstens tien interactie experimenten in code geïmplementeerd;
 - [ ] Alle schetsen voor interacties zijn opgenomen in je wiki;
 - [ ] Bij elke schets staat een korte beschrijving van de interactie;
-- [ ]  Bij elke schets staat een korte uitleg hoe je code werkt (let op: wees zuinig met codevoorbeelden).
+- [ ]  Bij elke schets staat een korte uitleg hoe je code werkt;
 - [ ] Je werk is te bekijken via GitHub pages;
 
 (extra credits!)
