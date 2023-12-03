@@ -106,12 +106,6 @@ Test in een browser of de versie die je net online gezet hebt ook via GitHub pag
 
 ## Definition of done
 
-Focus sprint 5 - De focus van deze sprint ligt op interactie en informatie architectuur van een website.
-
-Doel van deze opdracht:
-
-* Je leert hoe je verschillende User Interface Events kan gebruiken met Javascript.
-
 Deze opdracht is done als:
 
 - [ ] Je hebt minstens tien interactie experimenten in code geïmplementeerd;
