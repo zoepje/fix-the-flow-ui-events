@@ -49,9 +49,9 @@ a:hover {
   animation-iteration-count: 5;
 }
 
-.biberend{
+/* .biberend{
   scale: 2;
-}
+} */
 
 .shake{
   animation-name: shake;
