@@ -24,6 +24,7 @@ function bibberHandler(){
   design.classList.toggle('bibber');
 }
 
+
 and.addEventListener('mouseenter', shakeHandler1);
 and.addEventListener('animationend', shakeHandler1);
 function shakeHandler1(){
@@ -65,9 +66,9 @@ function blurHandler(){
   user.classList.add('blur');
 }
 
-interface.addEventListener();
+// interface.addEventListener();
 
-events.addEventListener();
+// events.addEventListener();
 
 interaction.addEventListener('click', jumpHandler);
 interaction.addEventListener('animationend', jumpHandler);

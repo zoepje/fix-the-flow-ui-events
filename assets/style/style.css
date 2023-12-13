@@ -49,6 +49,10 @@ a:hover {
   animation-iteration-count: 5;
 }
 
+.biberend{
+  scale: 2;
+}
+
 .shake{
   animation-name: shake;
   animation-duration: 0.1s;
